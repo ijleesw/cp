@@ -1,0 +1,17 @@
+#include "bits/stdc++.h"
+using namespace std;
+
+int solve() {
+
+}
+
+int main()
+{
+    int T;
+    cin >> T;
+    for (int t = 1; t <= T; ++t) {
+        cout << "Case #" << t << ": " << solve() << endl;
+    }
+
+    return 0;
+}
